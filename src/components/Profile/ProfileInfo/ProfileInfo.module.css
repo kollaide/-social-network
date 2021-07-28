@@ -1,0 +1,21 @@
+.backImage img{
+    width: 80%;
+  }
+
+  .discription{
+      padding-left: 15px;
+  }
+
+.profile {
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+.contact p {
+    text-decoration: underline;
+}
+.avatar img{
+    padding-left: 20px;
+}
+.information{
+    padding-left: 20px;
+}

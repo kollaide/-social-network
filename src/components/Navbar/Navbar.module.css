@@ -1,0 +1,24 @@
+.nav{
+    grid-area: n;
+    }
+  
+.navbar{
+  background-color: lightblue;
+}
+
+  .item{
+    font-size: 1.5em;
+    margin-top: 10px;
+    padding-left: 20px;
+
+  }
+  
+  .item a{
+    color: rgb(233, 236, 16);
+    text-decoration: none;
+  }
+
+  .item .activeLink{
+    color: rgb(0, 60, 255);
+  }
+
